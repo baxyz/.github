@@ -1,0 +1,11 @@
+{
+  "conventionalCommits.gitmoji": true,
+  "conventionalCommits.scopes": [
+    "profile",
+    "templates",
+    "deps",
+    "ci",
+    "docs",
+    "security"
+  ]
+}
