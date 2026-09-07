@@ -10,7 +10,12 @@ This repository inherits the [canonical workspace rules](https://github.com/baxy
 
 ## Scopes (Conventional Commits)
 
-Defined in `.vscode/settings.json` — `profile`, `templates`, `deps`, `ci`, `docs`, `security`.
+Defined in `scopes.json` — `profile`, `templates`, `deps`, `ci`, `docs`, `security`.
+`.vscode/settings.json` mirrors the same list for the editor's Conventional Commits extension UI.
+
+## License
+
+AGPL-3.0-only, the workspace default.
 
 ## Rules
 
