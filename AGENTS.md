@@ -6,11 +6,10 @@ This repository inherits the [canonical workspace rules](https://github.com/baxy
 
 - Workspace-wide GitHub configuration (community health files, issue/PR templates)
 - Dependabot configuration
-- Profile README (`profile/README.md`)
 
 ## Scopes (Conventional Commits)
 
-Defined in `scopes.json` — `profile`, `templates`, `deps`, `ci`, `docs`, `security`.
+Defined in `scopes.json` — `templates`, `deps`, `ci`, `docs`, `security`.
 `.vscode/settings.json` mirrors the same list for the editor's Conventional Commits extension UI.
 
 ## License
@@ -21,4 +20,4 @@ AGPL-3.0-only, the workspace default.
 
 - No runtime code.
 - Keep community files (CONTRIBUTING, CODE_OF_CONDUCT, SECURITY) up to date with actual practices.
-- `profile/README.md` is the public face of the baxyz account — keep it accurate and concise.
+- No `profile/README.md` here: `baxyz` is a user account, so its profile lives in the [`baxyz/baxyz`](https://github.com/baxyz/baxyz) repository.
