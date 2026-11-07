@@ -3,5 +3,6 @@
   "deps",
   "ci",
   "docs",
-  "security"
+  "security",
+  "ai"
 ]
